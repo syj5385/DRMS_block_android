@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/motor3"
+            android:layout_marginRight="12dp"
+            android:layout_weight="1"
+            android:minWidth="40dp"
+            android:minHeight="40dp"
+            android:id="@+id/motor_image"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="V : "
+            android:layout_weight="1"
+            android:textStyle="bold"/>
+
+
+        <EditText
+            android:id="@+id/motor_speed"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:focusable="false"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp"
+            android:cursorVisible="false"/>
+
+        <SeekBar
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/motor_seekbar"
+            android:thumb="@drawable/drone"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:max="255"/>
+
+
+
+</LinearLayout>

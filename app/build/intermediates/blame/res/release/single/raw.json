@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\firmware.hex",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\raw\\firmware.hex"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\firmware.hex",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\raw\\firmware.hex"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button_01.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button_01.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button2.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button2.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button2.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button2.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button_01.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button_01.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button1.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button1.wav"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\raw\\button1.wav",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\raw\\button1.wav"
+    }
+]

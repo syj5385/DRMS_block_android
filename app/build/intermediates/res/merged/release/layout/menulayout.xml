@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:gravity="center">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/cancel"
+            android:layout_weight="1"
+            android:id="@+id/motor_save"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            app:srcCompat="@mipmap/move_left"
+            android:layout_weight="1"
+            android:id="@+id/move_left" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/move_right"
+            app:srcCompat="@mipmap/move_right"
+            android:layout_weight="1"
+            android:layout_marginRight="10dp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@mipmap/remove"
+            android:id="@+id/remove" />
+
+</LinearLayout>

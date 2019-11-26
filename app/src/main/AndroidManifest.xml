@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jjun.jjunapp.programdrs">
+
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Activity.SplashActivity"
+            android:screenOrientation="landscape">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".Activity.MainActivity"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustPan">
+
+        </activity>
+
+        <activity
+            android:name=".Activity.CheckPermissionActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Activity.BTCheckActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Translucent3">
+
+        </activity>
+        
+        <activity android:name=".Activity.IntroActivity"
+            android:theme="@style/Theme.AppCompat.Translucent2">
+
+        </activity>
+
+        <activity android:name=".Communication.DeviceListActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".ArduinoPlay.ArduinoPlayActivity"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name=".Tutorial.TutorialCommandActivity"
+            android:screenOrientation="landscape"/>
+
+
+        <activity android:name=".Tutorial.TransparentActivity"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.Translucent">
+
+        </activity>
+
+        <activity android:name=".Command.CommandCheckActivity"
+            android:theme="@style/Theme.AppCompat.Translucent3"
+            android:screenOrientation="landscape">
+
+        </activity>
+
+        <activity android:name="com.nhn.android.naverlogin.ui.OAuthLoginActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:name="com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity"
+            android:label="OAuth2.0 In-app"/>
+
+    </application>
+
+</manifest>

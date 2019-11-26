@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bfbfbf</color>
+    <color name="colorPrimaryDark">#bfbfbf</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lineColor">#C1272D</color>
+
+    <color name="redColor">#f15a24</color>
+    <color name="tutorialTopic">#050099</color>
+
+    <color name="progressColor">#4374D9</color>
+</resources>

@@ -1,0 +1,922 @@
+[
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_saveas.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_saveas.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\start.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\one.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor11_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor11_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\help.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_new.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\seven_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\seven_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor10.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor10.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\box_back_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\box_back_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\one_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\one_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\naver_login.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\naver_login.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\four_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\four_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\location.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\main_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\main_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\five_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\five_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_sec_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_sec_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\five.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor11_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor11_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\remove.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_millis_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_millis_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\end_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\end_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_right.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_right.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\delete.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor9.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\onview.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\onview.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\moev_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\moev_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\enter.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\enter.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_cancel.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\upload_icon_non.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\upload_icon_non.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bluetooth_cnt.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\bluetooth_cnt.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor3.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor3.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\copy.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\copy.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\eight_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\eight_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\six_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\six_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_play_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_play_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\two_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\two_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\upload_icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\upload_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_sec.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_sec.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_save.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\zero_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\zero_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_ok_ok.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_ok_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\start_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\start_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\seven.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\three.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\two.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor3_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor3_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\enter_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\enter_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_millis_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_millis_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\storage.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\storage.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor5_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor5_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\location.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\three.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\etc.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\etc.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\end.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\end.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bluetooth.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\cancel_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\cancel_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_sec_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_sec_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor10_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor10_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\one.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\three_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\three_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\remove_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\remove_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_upload.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor10.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor10.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\hex_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\hex_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\nine_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\nine_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_bt.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor6_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor6_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor11.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor11.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\two.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\device_image.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\device_image.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motorall.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motorall.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\enter.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\enter.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\five.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\six.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor9_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor9_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motorall_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motorall_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_ok_ok.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_ok_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_millis.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_millis.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor6.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor6.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\main_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\main_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appicon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_right.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_right.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\nine.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\three_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\three_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor11.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor11.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_new.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor5_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor5_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor3_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor3_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\zero_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\zero_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor_all.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor_all.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\naver_login.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\naver_login.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor6.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor6.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_right_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_right_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\nine_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\nine_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\tutorial.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\tutorial.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\onview.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\onview.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\help.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_myfile.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_myfile.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_cancel.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\start.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\upload_icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\upload_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_upload.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\box_back_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\box_back_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_left_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_left_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\file_icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\file_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\cancel.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\cancel_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\cancel_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\remove_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\remove_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\seven_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\seven_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bluetooth.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_ok.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\error.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\moev_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\moev_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\hex_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\hex_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_ok.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\end.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\end.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\copy.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\copy.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\enter_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\enter_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor5.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor5.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\start_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\start_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\remove.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\delete_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\delete_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\eight.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_cancel_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_cancel_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_millis.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_millis.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\eight_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\eight_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\dialog_cancel_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\dialog_cancel_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\file_icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\file_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_saveas.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_saveas.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\six.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\one_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\one_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\delete_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\delete_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\device_image.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\device_image.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor_all.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor_all.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\four.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\bluetooth_cnt.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\bluetooth_cnt.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_down.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motorall.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motorall.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor9_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor9_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\etc.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\etc.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\zero.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_right_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_right_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\zero.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\four.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\timer_sec.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\timer_sec.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\move_left_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\move_left_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\storage.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\storage.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\cancel.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\upload_icon_non.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\upload_icon_non.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump4_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump4_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\five_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\five_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motorall_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motorall_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\tutorial.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\tutorial.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor6_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor6_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_bt.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump3_down_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump3_down_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\two_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\two_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\four_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\four_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\delete.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_myfile.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_myfile.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\error.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appmenu_save.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appmenu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\end_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\end_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\six_2.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\six_2.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor9.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor9.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\seven.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\eight.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\nine.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor10_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor10_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor5.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor5.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\arduino_play_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\arduino_play_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump1_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump1_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\motor3.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\motor3.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\appicon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi\\jump2_down.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\mipmap-hdpi\\jump2_down.png"
+    }
+]

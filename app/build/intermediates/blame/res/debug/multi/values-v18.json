@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/M:\\DRMS\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/C:\\Users\\연구실\\.android\\build-cache\\b4bc138904559aa8b91364f9736185ca749a1b52\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/F:\\ProgramDRS_final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/F:\\Volumes\\JJ_1\\ProgramDRS_final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/F:\\Users\\yeongjunsong\\.android\\build-cache\\92d7c2790ed2a3766fe2dbcd38132932d9cb2080\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/jjun/.android/build-cache/52137df7d058a77b3f0eb6c6c3308e25f1dd1e5b/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/F:\\Volumes\\JJ_1\\ProgramDRS_final\\C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Volumes/Yeongjun/DrMakerSystem/Project/DRMS(block)/Android/DRMS(block)/F:\\Volumes\\JJ_1\\ProgramDRS_final\\C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

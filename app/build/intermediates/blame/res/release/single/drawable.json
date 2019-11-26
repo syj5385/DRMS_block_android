@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\splash_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_scan.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\button_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_right.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_right.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\command_background.jpg",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\command_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\paired_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\paired_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\main_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drms_text.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\drms_text.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timer_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\timer_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timer_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\timer_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_scan.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\button_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\splash_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_big.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon_big.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\character.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\character.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\main_drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splashback.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\splashback.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_left.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_left.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splashback.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\splashback.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon_box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_play_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_play_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\command_background.jpg",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\command_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_big.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon_big.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_play.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_play.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\setting_box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drms_text.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\drms_text.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\discovered_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\discovered_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_stop_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_stop_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon_box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arrow_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arrow_up_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arrow_up_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\discovered_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\discovered_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drone.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\drone.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\character.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\character.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_play_on.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_play_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_up.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_box_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\setting_box_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\paired_back.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\paired_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_stop.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\arduino_back_right.png",
+        "source": "C:\\Users\\jjunj\\Desktop\\DRMS\\ProgramDRS_final\\app\\src\\main\\res\\drawable\\arduino_back_right.png"
+    },
+    {
+        "merged": "C:\\Users\\jjunj\\Desktop\\DRMS Program\\DRMS(block)Project\\Android\\ProgramDRS_final\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jjunj\\.android\\build-cache\\50b860b376f32f8fe9ec3297382c6194848085f4\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    }
+]

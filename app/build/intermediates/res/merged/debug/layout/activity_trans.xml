@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="jjun.jjunapp.programdrs.Activity.MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/left_layout"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="7dp"
+
+        android:layout_marginTop="7dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/icon_box"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center">
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/appmenu"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/appmenu_open"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/appmenu"
+                    android:alpha="255"
+                    android:id="@+id/app_menu_tutorial"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+
+            <LinearLayout
+                android:id="@+id/command_window"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingBottom="12dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bottom_setting"
+            android:visibility="gone"
+            android:gravity="center"
+            android:layout_marginBottom="7dp"
+            android:layout_marginRight="7dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/setting_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="left">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/menu_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right">
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

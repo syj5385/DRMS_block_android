@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DRMS(block)</string>
+
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devicees</string>
+    <string name="none_found"></string>
+
+    <string name="t0_string0">어플리케이션 둘러보기</string>
+    <string name="t0_string1">어플리케이션 메뉴</string>
+    <string name="t0_string2">Icon Box</string>
+    <string name="t0_string3">명령어 화면</string>
+    <string name="t0_string4">어플리케이션 메뉴가 무엇인가요?</string>
+    <string name="t0_string5">새로 열기, 저장, 열기, 실행 등 어플리케이션에 대한 메뉴가 포함되어 있습니다.</string>
+    <string name="t0_string6">New : 새로운 파일을 엽니다.</string>
+    <string name="t0_string7">Save : 작성한 파일을 저장합니다.</string>
+    <string name="t0_string8">Save as : 작성한 파일을 새로운 이름으로 저장합니다.</string>
+    <string name="t0_string9">My File : 저장된 파일을 불러옵니다.</string>
+    <string name="t0_string10">Play : 아두이노에 전송된 프로그램을 실행합니다.</string>
+    <string name="t0_string11">Upload : 작성한 프로그램을 아두이노에 전송합니다.</string>
+    <string name="t0_string12">BT Setting : 자신의 블루투스 모듈을 등록합니다.</string>
+    <string name="t0_string13">Tutorial : 어플리케이션 사용방법에 대해 알아봅니다. </string>
+    <string name="t0_string14">그럼 이제 직접 어플리케이션 메뉴를 눌러보세요.</string>
+    <string name="t0_string15">그럼 어플리케이션 메뉴는 어떻게 열 수 있나요?</string>
+    <string name="t0_string16">어플리케이션 메뉴는 화면 오른쪽 상단에 있는 버튼을 누르면 나타납니다.</string>
+    <string name="t0_string17">그럼 직접 어플리케이션 메뉴 버튼을 눌러 볼까요?</string>
+    <string name="t0_string18">각 메뉴에 대한 자세한 내용은 다음 튜토리얼에서 알아보겠습니다. </string>
+    <string name="t01_string0">아이콘 박스가 무엇인가요?</string>
+    <string name="t01_string1">아두이노를 움직이게 할 수 있는 다양한 아이콘이 모여 있는 박스입니다.</string>
+    <string name="t01_string2"> - 각각 그룹을 클릭하면 관련된 다양한 아이콘이 나타납니다.</string>
+    <string name="t01_string3"> - 자신이 필요한 아이콘을 클릭하여 사용합니다.</string>
+    <string name="t01_string4">\n</string>
+    <string name="t01_string5">그럼 지금부터 아이콘 박스에 있는 아이콘 종류를 알아보겠습니다.</string>
+    <string name="t01_string6">네!!!!</string>
+    <string name="t01_string7">그럼 아이콘박스에 있는 아이콘을 직접 확인해볼까요?</string>
+
+    <string name="t02_string0">명령어 화면이 무엇인가요?</string>
+    <string name="t02_string1">여러분이 선택한 명령 아이콘이 나타나는 화면입니다.</string>
+    <string name="t02_string2"> - 여러분이 선택한 아이콘은 한줄에 5개 씩 순서대로 자동으로 배치됩니다.</string>
+    <string name="t02_string3"> - 배치 된 아이콘을 선택하여 각각의 속성을 변경 및 저장할 수 있습니다.</string>
+    <string name="t02_string4"> - 배치 된 아이콘의 순서 변경 및 삭제 등의 작업을 수행할 수 있습니다.</string>
+    <string name="t02_string6">자세한 아이콘 배치 및 명령 진행에 관해서는 다음 튜토리얼에서 진행합니다.</string>
+
+    <string name="t02_string7"> 그럼 지금부터 직접 아이콘 배치를 해볼까요?</string>
+    <string name="t02_string8">아래의 그림과 같이 아이콘 구성을 한 번 해보도록 하겠습니다.</string>
+
+    <string name="t10_string0">명령어 속성 입력</string>
+    <string name="t10_string1">명령어 이동</string>
+    <string name="t10_string2">명령어 지우기</string>
+    <string name="t10_string3">명령에 화면에서 무엇을 할 수 있나요?</string>
+    <string name="t10_string4">명령어 화면에서는 명령어 편집에 관련된 여러가지 수행을 할 수 있습니다.</string>
+    <string name="t10_string5"> EX) 명령어 속성 편집, 명령어 이동, 명령어 제거, 복사, 붙여넣기</string>
+    <string name="t10_string6">설명을 위해 모터를 구동하는 간단한 명령어를 입력하겠습니다.</string>
+
+
+
+
+
+
+</resources>

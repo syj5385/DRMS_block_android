@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/command_background"
+    android:paddingTop="20dp"
+    android:paddingBottom="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center|right"
+            android:paddingRight="30dp">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/help"
+                    android:layout_marginRight="30dp"
+                    android:id="@+id/help"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@mipmap/bluetooth"
+                    android:id="@+id/bluetooth"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="80dp"
+            android:paddingRight="80dp"
+            android:gravity="center">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/execute"
+                    app:srcCompat="@mipmap/upload_icon_non"
+                    android:visibility="visible"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@mipmap/upload_icon"
+                    android:visibility="gone"
+                    android:id="@+id/uploading"/>
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:id="@+id/progress_layout"
+            android:orientation="vertical">
+
+                <ProgressBar
+                    android:id="@+id/upload_state"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="업로드 전 블루투스 연결을 해주세요"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="12dp"
+                    android:layout_weight="1"
+                    android:id="@+id/progress"/>
+
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
